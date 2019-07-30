@@ -1,5 +1,5 @@
 {
-  "name": "sade",
+  "name": "@boco/sade",
   "version": "1.6.1",
   "description": "Smooth (CLI) operator 🎶",
   "repository": "lukeed/sade",
