@@ -1,6 +1,6 @@
 {
   "name": "@boco/sade",
-  "version": "1.6.2-boco-2",
+  "version": "1.6.2-boco-3",
   "description": "Smooth (CLI) operator",
   "repository": "lukeed/sade",
   "main": "lib/index.js",
